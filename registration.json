@@ -1,0 +1,12 @@
+({
+	"status" : "success",
+	"data":[{
+		"name1" : "彭子荣",
+		"position1" : "内分泌科主任医师",
+		"name2" : "吴舟",
+		"position2" : "内分泌科副主任医师",
+		"name3" : "刘江伟",
+		"position3" : "内分泌科副主任医师"
+		},
+	]
+})
